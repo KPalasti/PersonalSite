@@ -8,3 +8,8 @@ body {
   color: darkblue;
   background-color: grey;
 }
+
+#profilePic {
+  width: 30%;
+  
+}
